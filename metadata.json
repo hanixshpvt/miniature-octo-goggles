@@ -1,0 +1,7 @@
+{
+  "name": "HanixMedia - Elite Patient Growth System™",
+  "description": "The authoritative Patient Growth System™ for U.S. MedSpas and Surgeons. HIPAA-compliant revenue recovery, guaranteed booked appointments, and high-ticket procedural yield architecture.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
